@@ -1,0 +1,7 @@
+MnemoSeed brand assets
+
+These files identify MnemoSeed. Use the supplied artwork to refer to the project accurately. Preserve the mark, wordmark and clear space. Do not present use of the assets as an endorsement, affiliation or ownership of MnemoSeed.
+
+This kit does not grant a separate broad copyright or trademark license. The MIT license of MnemoSeed Local applies to that code project; it does not establish a license for this brand kit. No registered-trademark status is asserted.
+
+The Sora font software is licensed separately under the SIL Open Font License 1.1. Its license is included in SORA-OFL.txt. The exported SVG lettering consists of vector outlines and does not require a font installation.
